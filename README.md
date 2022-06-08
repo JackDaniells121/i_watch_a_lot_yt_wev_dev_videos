@@ -1,7 +1,7 @@
 # yt_WebDevVideoList
 
-This is list of videos about webdev, php, design patterns, CI/CD, web security, java script, react, frameworks, development process in
-chronological order I had watched
+This is list of videos that I had watched about webdev, php, design patterns, CI/CD, web security, java script, react, frameworks, development process in
+chronological order 
 
 # 2022
 
