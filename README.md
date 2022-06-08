@@ -1,6 +1,6 @@
 # yt_WebDevVideoList
 
-This is list of interesting videos that I had watched about webdev
+List of interesting videos about webdev
 
 # 2022
 
