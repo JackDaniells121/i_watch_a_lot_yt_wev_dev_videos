@@ -10,3 +10,4 @@ List of interesting videos about webdev
 - [Code report by FireShip](https://www.youtube.com/watch?v=HDZWWFSZUF0) 13/06
 - [Andrew Schmelyun - laravel etc.](https://www.youtube.com/c/ASchmelyun/videos)
 - [Andrew Schmelyun - receipt printer for github issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/)
+- [ProgramWithGio - php 8.0 and php](https://www.youtube.com/c/ProgramWithGio/videos)
