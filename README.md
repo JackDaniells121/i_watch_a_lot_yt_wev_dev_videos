@@ -8,3 +8,4 @@ List of interesting videos about webdev
 - [Chrome 102](https://www.youtube.com/watch?v=AGyP85QEBzY) 09/06
 - [Laravel e-exam platform/ separate user table into 2 tables](https://www.youtube.com/watch?v=supEtKvyU_Q) 09/06
 - [Code report by FireShip](https://www.youtube.com/watch?v=HDZWWFSZUF0) 13/06
+- [Andrew Schmelyun - github epson receipts printing, laravel etc.](https://www.youtube.com/c/ASchmelyun/videos)
