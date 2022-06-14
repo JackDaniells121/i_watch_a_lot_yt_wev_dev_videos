@@ -11,3 +11,4 @@ List of interesting videos about webdev
 - [Andrew Schmelyun - laravel etc.](https://www.youtube.com/c/ASchmelyun/videos)
 - [Andrew Schmelyun - receipt printer for github issues](https://aschmelyun.com/blog/i-built-a-receipt-printer-for-github-issues/)
 - [ProgramWithGio - php 8.0 and php](https://www.youtube.com/c/ProgramWithGio/videos)
+- [PHP - refactor cURL to Guzzle](https://www.youtube.com/watch?v=c2ZP2FxD5I0) 25/05
