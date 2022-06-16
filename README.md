@@ -18,3 +18,4 @@ List of interesting videos about webdev
 - [Laravel Mobile Phone Verification - how to make](https://www.youtube.com/watch?v=kmRgXqbIjmY) 15/06
 - [Chrome 103 - What’s New in DevTools](https://www.youtube.com/watch?v=LyMts4yfQu8) 16/06
 - [Web Dev Simplified - The attr CSS Function Is Incredible](https://www.youtube.com/watch?v=XU2MxPWbvGM) 16/06
+- [Tailwind Labs - Whats new in Tailwind 3.1](https://www.youtube.com/watch?v=nOQyWbPO2Ds) 09/16
