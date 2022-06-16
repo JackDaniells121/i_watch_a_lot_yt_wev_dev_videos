@@ -20,4 +20,4 @@ List of interesting videos about webdev
 - [Web Dev Simplified - The attr CSS Function Is Incredible](https://www.youtube.com/watch?v=XU2MxPWbvGM) 16/06
 - [Tailwind Labs - Whats new in Tailwind 3.1](https://www.youtube.com/watch?v=nOQyWbPO2Ds) 09/06
 - [Andrew Schmelyun - Vue2 -> Vue3](https://www.youtube.com/watch?v=gwuECGM1p6g) 19/05
-- [Vue 7 patterns You should use](https://www.youtube.com/watch?v=muaBCsVE-NM) 31/01/2021
+- [Lachlan Miller - Vue - 7 patterns You should use](https://www.youtube.com/watch?v=muaBCsVE-NM) 31/01/2021
