@@ -19,3 +19,4 @@ List of interesting videos about webdev
 - [Chrome 103 - What’s New in DevTools](https://www.youtube.com/watch?v=LyMts4yfQu8) 16/06
 - [Web Dev Simplified - The attr CSS Function Is Incredible](https://www.youtube.com/watch?v=XU2MxPWbvGM) 16/06
 - [Tailwind Labs - Whats new in Tailwind 3.1](https://www.youtube.com/watch?v=nOQyWbPO2Ds) 09/06
+- [Andrew Schmelyun - Vue2 -> Vue3](https://www.youtube.com/watch?v=gwuECGM1p6g) 19/05
