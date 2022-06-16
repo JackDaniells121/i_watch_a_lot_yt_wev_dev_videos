@@ -17,3 +17,4 @@ List of interesting videos about webdev
 - [PHP - what are DTOs (Data Transfer Objects)](https://www.youtube.com/watch?v=35QmeoPLPOQ) 01/06
 - [Laravel Mobile Phone Verification - how to make](https://www.youtube.com/watch?v=kmRgXqbIjmY) 15/06
 - [Chrome 103 - What’s New in DevTools](https://www.youtube.com/watch?v=LyMts4yfQu8) 16/06
+- [Web Dev Simplified - The attr CSS Function Is Incredible](https://www.youtube.com/watch?v=XU2MxPWbvGM) 16/06
