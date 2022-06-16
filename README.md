@@ -2,7 +2,7 @@
 
 List of interesting videos about webdev
 
-- [PHP - youtube last added videos list](https://www.youtube.com/results?search_query=php&sp=EgQIAhAB)
+- [PHP - youtube videos last added list](https://www.youtube.com/results?search_query=php&sp=EgQIAhAB)
 
 # 2022
 
