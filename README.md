@@ -15,3 +15,4 @@ List of interesting videos about webdev
 - [ProgramWithGio - php 8.0 and php](https://www.youtube.com/c/ProgramWithGio/videos)
 - [PHP - refactor cURL to Guzzle](https://www.youtube.com/watch?v=c2ZP2FxD5I0) 25/05
 - [PHP - what are DTOs (Data Transfer Objects)](https://www.youtube.com/watch?v=35QmeoPLPOQ) 01/06
+- [Laravel Mobile Phone Verification - how to make](https://www.youtube.com/watch?v=kmRgXqbIjmY) 15/06
