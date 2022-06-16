@@ -16,3 +16,4 @@ List of interesting videos about webdev
 - [PHP - refactor cURL to Guzzle](https://www.youtube.com/watch?v=c2ZP2FxD5I0) 25/05
 - [PHP - what are DTOs (Data Transfer Objects)](https://www.youtube.com/watch?v=35QmeoPLPOQ) 01/06
 - [Laravel Mobile Phone Verification - how to make](https://www.youtube.com/watch?v=kmRgXqbIjmY) 15/06
+- [Chrome 103 - What’s New in DevTools](https://www.youtube.com/watch?v=LyMts4yfQu8) 16/06
