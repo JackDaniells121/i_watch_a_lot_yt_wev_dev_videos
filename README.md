@@ -22,3 +22,4 @@ List of interesting videos about webdev
 - [Andrew Schmelyun - Vue2 -> Vue3](https://www.youtube.com/watch?v=gwuECGM1p6g) 19/05
 - [Lachlan Miller - Vue - 7 patterns You should use](https://www.youtube.com/watch?v=muaBCsVE-NM) 31/01/2021
 - [MattVideoProductions - DALL-E 2 alternatives](https://www.youtube.com/watch?v=cs-9UI3qh8s) 14/06
+- [Detect frontend js framework](https://gist.github.com/rambabusaravanan/1d594bd8d1c3153bc8367753b17d074b)
