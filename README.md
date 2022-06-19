@@ -21,4 +21,4 @@ List of interesting videos about webdev
 - [Tailwind Labs - Whats new in Tailwind 3.1](https://www.youtube.com/watch?v=nOQyWbPO2Ds) 09/06
 - [Andrew Schmelyun - Vue2 -> Vue3](https://www.youtube.com/watch?v=gwuECGM1p6g) 19/05
 - [Lachlan Miller - Vue - 7 patterns You should use](https://www.youtube.com/watch?v=muaBCsVE-NM) 31/01/2021
-- [MattVideoProductions - Dalle alternatives](https://www.youtube.com/watch?v=cs-9UI3qh8s) 14/06
+- [MattVideoProductions - DALL-E 2 alternatives](https://www.youtube.com/watch?v=cs-9UI3qh8s) 14/06
