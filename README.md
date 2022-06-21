@@ -25,3 +25,4 @@ List of interesting videos about webdev
 - [Detect frontend js framework](https://gist.github.com/rambabusaravanan/1d594bd8d1c3153bc8367753b17d074b)
 - [Laravel Daily - collections vs arrays performance](https://www.youtube.com/watch?v=RGALgqsXiqU) 07/06
 - [2kliksphilip - DALL-E Mini: Pictures you didn't know you needed to see](https://www.youtube.com/watch?v=xt9LnqixpGs) 11/06
+- [David Carr - AdminTW V2 a Laravel TALL theme](https://www.youtube.com/watch?v=ehLx-jO1LF0) 07/06
