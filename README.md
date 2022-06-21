@@ -26,3 +26,5 @@ List of interesting videos about webdev
 - [Laravel Daily - collections vs arrays performance](https://www.youtube.com/watch?v=RGALgqsXiqU) 07/06
 - [2kliksphilip - DALL-E Mini: Pictures you didn't know you needed to see](https://www.youtube.com/watch?v=xt9LnqixpGs) 11/06
 - [David Carr - AdminTW V2 a Laravel TALL theme](https://www.youtube.com/watch?v=ehLx-jO1LF0) 07/06
+- [Hugging Face - Build, train and deploy state of the art models](https://huggingface.co)
+- [Gradio - Build & Share Delightful Machine Learning Apps ](https://gradio.app)
