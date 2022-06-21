@@ -24,3 +24,4 @@ List of interesting videos about webdev
 - [MattVideoProductions - DALL-E 2 alternatives](https://www.youtube.com/watch?v=cs-9UI3qh8s) 14/06
 - [Detect frontend js framework](https://gist.github.com/rambabusaravanan/1d594bd8d1c3153bc8367753b17d074b)
 - [Laravel Daily - collections vs arrays performance](https://www.youtube.com/watch?v=RGALgqsXiqU) 07/06
+- [2kliksphilip - DALL-E Mini: Pictures you didn't know you needed to see](https://www.youtube.com/watch?v=xt9LnqixpGs) 11/06
