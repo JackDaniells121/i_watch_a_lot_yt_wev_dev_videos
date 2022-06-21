@@ -28,3 +28,4 @@ List of interesting videos about webdev
 - [David Carr - AdminTW V2 a Laravel TALL theme](https://www.youtube.com/watch?v=ehLx-jO1LF0) 07/06
 - [Hugging Face - Build, train and deploy state of the art models](https://huggingface.co)
 - [Gradio - Build & Share Delightful Machine Learning Apps ](https://gradio.app)
+- [Chrome 103](https://www.youtube.com/watch?v=e8LUoJClVo4) 21/06
