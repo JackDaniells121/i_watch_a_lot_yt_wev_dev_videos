@@ -29,3 +29,4 @@ List of interesting videos about webdev
 - [Hugging Face - Build, train and deploy state of the art models](https://huggingface.co)
 - [Gradio - Build & Share Delightful Machine Learning Apps ](https://gradio.app)
 - [Chrome 103](https://www.youtube.com/watch?v=e8LUoJClVo4) 21/06
+- [Google Chrome Developers - GUI snippets](https://www.youtube.com/watch?v=R1Bst2uilxE)
