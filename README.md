@@ -30,3 +30,4 @@ List of interesting videos about webdev
 - [Gradio - Build & Share Delightful Machine Learning Apps ](https://gradio.app)
 - [Chrome 103](https://www.youtube.com/watch?v=e8LUoJClVo4) 21/06
 - [Google Chrome Developers - GUI snippets](https://www.youtube.com/watch?v=R1Bst2uilxE)
+- [MattVideoProductions - Dall-E 2 V.S. Midjourney](https://www.youtube.com/watch?v=HPHJJWZMPU4)
