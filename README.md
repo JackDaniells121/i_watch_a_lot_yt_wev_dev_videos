@@ -31,3 +31,4 @@ List of interesting videos about webdev
 - [Chrome 103](https://www.youtube.com/watch?v=e8LUoJClVo4) 21/06
 - [Google Chrome Developers - GUI snippets](https://www.youtube.com/watch?v=R1Bst2uilxE)
 - [MattVideoProductions - Dall-E 2 V.S. Midjourney](https://www.youtube.com/watch?v=HPHJJWZMPU4)
+- [Kevin Powell- The console.log() of css](https://www.youtube.com/watch?v=ii-lSK2_Nu4) 23/06
