@@ -33,6 +33,7 @@ List of interesting videos about webdev
 - [MattVideoProductions - Dall-E 2 V.S. Midjourney](https://www.youtube.com/watch?v=HPHJJWZMPU4)
 - [Kevin Powell- The console.log() of css](https://www.youtube.com/watch?v=ii-lSK2_Nu4) 23/06
 - [Fireship - 21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y) 21/07/21
+- [FireShip - a fresh new web framework is out ](https://www.youtube.com/watch?v=4boXExbbGCk)
 
 # CSS / JS / interesting
 - [Css and ux design demos / github / article](https://tympanus.net/Development/BackgroundScaleHoverEffect/) website
