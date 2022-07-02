@@ -35,6 +35,7 @@ List of interesting videos about webdev
 - [Fireship - 21+ Browser Dev Tools & Tips You Need To Know](https://www.youtube.com/watch?v=TcTSqhpm80Y) 21/07/21
 - [FireShip - a fresh new web framework is out ](https://www.youtube.com/watch?v=4boXExbbGCk) 29/06
 - [Laravel Daily - php null coalesce operator - ?? and ??=](https://www.youtube.com/watch?v=e_kf5s9aG-k) 30/06
+- [Laravel Daily -  Laravel API Resources for Same Model: Re-Use or Create New?](https://www.youtube.com/watch?v=CdwK41cRCTw) 21/06
 
 # CSS / JS / interesting
 - [Css and ux design demos / github / article](https://tympanus.net/Development/BackgroundScaleHoverEffect/) website
