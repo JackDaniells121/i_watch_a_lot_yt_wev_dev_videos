@@ -36,6 +36,7 @@ List of interesting videos about webdev
 - [FireShip - a fresh new web framework is out ](https://www.youtube.com/watch?v=4boXExbbGCk) 29/06
 - [Laravel Daily - php null coalesce operator - ?? and ??=](https://www.youtube.com/watch?v=e_kf5s9aG-k) 30/06
 - [Laravel Daily -  Laravel API Resources for Same Model: Re-Use or Create New?](https://www.youtube.com/watch?v=CdwK41cRCTw) 21/06
+- [JSConf 2018 - Jake Archibald: In The Loop - setTimeout, micro tasks...](https://www.youtube.com/watch?v=cCOL7MC4Pl0) 09/02/2018
 
 # CSS / JS / interesting
 - [Css and ux design demos / github / article](https://tympanus.net/Development/BackgroundScaleHoverEffect/) website
