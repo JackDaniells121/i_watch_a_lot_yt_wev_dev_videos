@@ -39,6 +39,7 @@ List of interesting videos about webdev
 - [JSConf 2018 - Jake Archibald: In The Loop - setTimeout, micro tasks...](https://www.youtube.com/watch?v=cCOL7MC4Pl0) 09/02/2018
 - [Conner Ardman - Google Frontend CSS Interview | Ft. Clément Mihailescu](https://www.youtube.com/watch?v=ak4p7sdKJQw) 13/04
 - [t3ssel8r - Giving Personality to Procedural Animations using Math](https://www.youtube.com/watch?v=KPoeNZZ6H4s) 29/06
+- [GOTO 2019 - You Really Don't Need All that JavaScript](https://www.youtube.com/watch?v=rxlJRydqmk8) xx/xx/2019
 
 # CSS / JS / interesting
 - [Css and ux design demos / github / article](https://tympanus.net/Development/BackgroundScaleHoverEffect/) website
