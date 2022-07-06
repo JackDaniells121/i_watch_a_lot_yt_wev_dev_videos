@@ -45,6 +45,7 @@ List of interesting videos about webdev
 - [Css and ux design demos / github / article](https://tympanus.net/Development/BackgroundScaleHoverEffect/) website
 - [Audio base image distortion](https://tympanus.net/Development/AudioBasedImageDistortion/index2.html) website
 - [Infinite backgorund](https://tympanus.net/Development/Theodore/) website
+- [Google fonts animation](https://codepen.io/jh3y/pen/OJMOmRL) website / codepen live example
 
 # READ
 ## PHP 
