@@ -46,6 +46,7 @@ List of interesting videos about webdev
 - [Audio base image distortion](https://tympanus.net/Development/AudioBasedImageDistortion/index2.html) website
 - [Infinite backgorund](https://tympanus.net/Development/Theodore/) website
 - [Google fonts animation](https://codepen.io/jh3y/pen/OJMOmRL) website / codepen live example
+- [GSAP - js animation lib](https://css-tricks.com/tips-for-writing-animation-code-efficiently/) website / examples
 
 # READ
 ## PHP 
