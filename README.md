@@ -53,3 +53,4 @@ List of interesting videos about webdev
 ## PHP 
 - [Codeception - php testing framework](https://codeception.com/)
 - [Code syntax - gheerkin](https://cucumber.io/docs/guides/overview/)
+- [PHP 8 - null safe operator ?->](https://www.youtube.com/post/UgkxM_kUbgN8e9eli1QREgj2X6IFojDqe5p0) 06/07
