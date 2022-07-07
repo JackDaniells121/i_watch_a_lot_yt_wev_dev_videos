@@ -40,6 +40,7 @@ List of interesting videos about webdev
 - [Conner Ardman - Google Frontend CSS Interview | Ft. Clément Mihailescu](https://www.youtube.com/watch?v=ak4p7sdKJQw) 13/04
 - [t3ssel8r - Giving Personality to Procedural Animations using Math](https://www.youtube.com/watch?v=KPoeNZZ6H4s) 29/06
 - [GOTO 2019 - You Really Don't Need All that JavaScript](https://www.youtube.com/watch?v=rxlJRydqmk8) xx/xx/2019
+- [Fireship - CodeReport - Bun - new blazing fast js runtime](https://www.youtube.com/watch?v=FMhScnY0dME) 06/07
 
 ## CSS / JS / interesting
 - [Css and ux design demos / github / article](https://tympanus.net/Development/BackgroundScaleHoverEffect/) website
