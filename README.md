@@ -44,6 +44,10 @@ List of interesting videos about webdev
 
 ## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
+- [Power of JS generators by by Anjana Vakil](https://www.youtube.com/watch?v=gu3FfmgkwUc)
+- [Type Script by Thiago Temple](https://www.youtube.com/watch?v=fhyHgkH0ZEg)
+- [HTML Markup matters - Accesibility - by Hidde de Vries](https://www.youtube.com/watch?v=MDywgeCW5jk)
+- [Typed Java Script for real? by Gil Tayar](https://www.youtube.com/watch?v=SdV9Xy0E4CM)
 
 ## CSS / JS / interesting
 - [Css and ux design demos / github / article](https://tympanus.net/Development/BackgroundScaleHoverEffect/) website
