@@ -42,7 +42,7 @@ List of interesting videos about webdev
 - [GOTO 2019 - You Really Don't Need All that JavaScript](https://www.youtube.com/watch?v=rxlJRydqmk8) xx/xx/2019
 - [Fireship - CodeReport - Bun - new blazing fast js runtime](https://www.youtube.com/watch?v=FMhScnY0dME) 06/07
 
-## Budapest JS Conf
+## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
 
 ## CSS / JS / interesting
