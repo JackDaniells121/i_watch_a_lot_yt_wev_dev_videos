@@ -64,3 +64,8 @@ List of interesting videos about webdev
 - [Codeception - php testing framework](https://codeception.com/)
 - [Code syntax - gheerkin](https://cucumber.io/docs/guides/overview/)
 - [PHP 8 - null safe operator ?->](https://www.youtube.com/post/UgkxM_kUbgN8e9eli1QREgj2X6IFojDqe5p0) 06/07
+
+
+# Visual Effects / 3d / 
+## Adobe After effects
+- [Destroyed City Effect From Doctor Strange in the Multiverse of Madness](https://www.youtube.com/watch?v=JF5WvElVfCQ)
