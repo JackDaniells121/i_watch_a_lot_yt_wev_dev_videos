@@ -44,6 +44,7 @@ List of interesting videos about webdev
 - [Academind - TypeScript Course for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs) 21/01/2020
 - [Laravel Daily - Code styling fixer - Pint](https://www.youtube.com/watch?v=5khyIHIYIK4) 08/07
 - [What is a monad? (Design Pattern) JavaScript](https://www.youtube.com/watch?v=VgA4wCaxp-Q) 26/06
+- [PwnFunction - How to Predict Random Numbers](https://www.youtube.com/watch?v=-h_rj2-HP2E) 12/07
 
 ## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
