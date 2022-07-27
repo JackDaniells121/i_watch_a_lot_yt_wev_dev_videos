@@ -47,6 +47,7 @@ List of interesting videos about webdev
 - [PwnFunction - How to Predict Random Numbers](https://www.youtube.com/watch?v=-h_rj2-HP2E) 12/07
 - [19 Laravel Ecosystem Explained - Part 1](https://www.youtube.com/watch?v=gg8gjO5pLps) 22/04
 - [Laravel Daily - Livewire Like / Bokmark buttons](https://www.youtube.com/watch?v=jNGeAsn-P8c) 19/07
+- [Google Chrome Developers - DOM ready events considered harmful | HTTP 203](https://www.youtube.com/watch?v=_iq1fPjeqMQ) 26/07
 
 ## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
