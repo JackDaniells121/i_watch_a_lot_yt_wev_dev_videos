@@ -62,6 +62,7 @@ List of interesting videos about webdev
 - [Infinite backgorund](https://tympanus.net/Development/Theodore/) website
 - [Google fonts animation](https://codepen.io/jh3y/pen/OJMOmRL) website / codepen live example
 - [GSAP - js animation lib](https://css-tricks.com/tips-for-writing-animation-code-efficiently/) website / examples
+- [Google Chrome Developers - CAROUSELS](https://www.youtube.com/watch?v=CXJv6zM003M)
 
 # READ
 ## PHP 
