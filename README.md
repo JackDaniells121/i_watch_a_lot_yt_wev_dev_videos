@@ -65,10 +65,12 @@ List of interesting videos about webdev
 - [Google Chrome Developers - CAROUSELS](https://www.youtube.com/watch?v=CXJv6zM003M)
 
 # READ
+- [Gmail’s new Material You redesign: How to revert to the original view](https://9to5google.com/2022/08/02/gmails-new-material-you-redesign-how-to-revert-to-the-original-view/) 02/08/2022
 ## PHP 
 - [Codeception - php testing framework](https://codeception.com/)
 - [Code syntax - gheerkin](https://cucumber.io/docs/guides/overview/)
 - [PHP 8 - null safe operator ?->](https://www.youtube.com/post/UgkxM_kUbgN8e9eli1QREgj2X6IFojDqe5p0) 06/07
+
 
 
 # Visual Effects / 3d / 
