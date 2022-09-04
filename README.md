@@ -48,6 +48,7 @@ List of interesting videos about webdev
 - [19 Laravel Ecosystem Explained - Part 1](https://www.youtube.com/watch?v=gg8gjO5pLps) 22/04
 - [Laravel Daily - Livewire Like / Bokmark buttons](https://www.youtube.com/watch?v=jNGeAsn-P8c) 19/07
 - [Google Chrome Developers - DOM ready events considered harmful | HTTP 203](https://www.youtube.com/watch?v=_iq1fPjeqMQ) 26/07
+- [Jerbrains space](https://www.youtube.com/watch?v=utW0-mMYUL4) 29/08
 
 ## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
