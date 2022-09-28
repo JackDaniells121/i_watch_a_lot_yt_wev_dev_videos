@@ -50,6 +50,7 @@ List of interesting videos about webdev
 - [Google Chrome Developers - DOM ready events considered harmful | HTTP 203](https://www.youtube.com/watch?v=_iq1fPjeqMQ) 26/07
 - [Jerbrains space](https://www.youtube.com/watch?v=utW0-mMYUL4) 29/08
 - [6 New'ish HTML Tags You Can Use Right Now](https://www.youtube.com/watch?v=CvwbinzWSgs) 06/09
+- [Google Will Soon Kill Ad Blockers With Manifest V3 - What to do!](https://www.youtube.com/watch?v=18VM1xZQdXc) 28/09
 
 ## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
