@@ -51,6 +51,7 @@ List of interesting videos about webdev
 - [Jerbrains space](https://www.youtube.com/watch?v=utW0-mMYUL4) 29/08
 - [6 New'ish HTML Tags You Can Use Right Now](https://www.youtube.com/watch?v=CvwbinzWSgs) 06/09
 - [Google Will Soon Kill Ad Blockers With Manifest V3 - What to do!](https://www.youtube.com/watch?v=18VM1xZQdXc) 28/09
+- [Github - Tips for documenting your framework with Astro - Open Source Friday](https://www.youtube.com/watch?v=B1ejSMzr0n4) 16/10
 
 ## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
