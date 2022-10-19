@@ -68,6 +68,7 @@ List of interesting videos about webdev
 - [Google fonts animation](https://codepen.io/jh3y/pen/OJMOmRL) website / codepen live example
 - [GSAP - js animation lib](https://css-tricks.com/tips-for-writing-animation-code-efficiently/) website / examples
 - [Google Chrome Developers - CAROUSELS](https://www.youtube.com/watch?v=CXJv6zM003M)
+- [Google Chrome Developers - tab focus](https://www.youtube.com/shorts/nIJF_oYU_Po)
 
 # READ
 - [Gmail’s new Material You redesign: How to revert to the original view](https://9to5google.com/2022/08/02/gmails-new-material-you-redesign-how-to-revert-to-the-original-view/) 02/08/2022
