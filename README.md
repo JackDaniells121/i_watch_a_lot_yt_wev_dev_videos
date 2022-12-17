@@ -82,3 +82,7 @@ List of interesting videos about webdev
 # Visual Effects / 3d / 
 ## Adobe After effects
 - [Destroyed City Effect From Doctor Strange in the Multiverse of Madness](https://www.youtube.com/watch?v=JF5WvElVfCQ)
+
+# Tools
+## Augmented note creator
+- [Notion app enhanced with AI](https://www.youtube.com/watch?v=0DIn0Ws9yTE)
