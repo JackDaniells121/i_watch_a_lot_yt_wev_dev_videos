@@ -80,6 +80,8 @@ List of interesting videos about webdev
 
 
 # Visual Effects / 3d / 
+## Blender
+- [Project texture stable diffusion](https://www.youtube.com/watch?v=7bCwgiS4rNc)
 ## Adobe After effects
 - [Destroyed City Effect From Doctor Strange in the Multiverse of Madness](https://www.youtube.com/watch?v=JF5WvElVfCQ)
 
