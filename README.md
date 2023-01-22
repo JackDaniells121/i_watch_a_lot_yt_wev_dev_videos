@@ -53,6 +53,7 @@ List of interesting videos about webdev
 - [Google Will Soon Kill Ad Blockers With Manifest V3 - What to do!](https://www.youtube.com/watch?v=18VM1xZQdXc) 28/09
 - [Github - Tips for documenting your framework with Astro - Open Source Friday](https://www.youtube.com/watch?v=B1ejSMzr0n4) 16/10
 - [Laracasts - Laravel's New Strict Mode](https://www.youtube.com/watch?v=as7qSB4WNHA) 18/10
+- [Analyze ChatGPT backend](https://www.youtube.com/watch?v=d41wkF1sWuc) 20/01/2023
 
 ## Budapest 2022 JS Conf
 - [How to do great tutorial / documentation by Adrienne Tacke](youtube.com/watch?v=wBGOswx6MSw)
